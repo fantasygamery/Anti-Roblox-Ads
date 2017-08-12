@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Anti roblox ADS
-// @namespace    http://tampermonkey.net/
+// @namespace    https://raw.githubusercontent.com/fantasygamery/Anti-Roblox-Ads/master/Main.js
 // @description Removes roblox ads.
+// @updateURL https://raw.githubusercontent.com/fantasygamery/Anti-Roblox-Ads/master/Main.js
+// @downloadURL https://raw.githubusercontent.com/fantasygamery/Anti-Roblox-Ads/master/Main.js
 // @icon https://lh5.googleusercontent.com/F4sgUyCCO3FxiBiylT9VO2Mv-qusZgsR9pwZcAhmCcEsogMTGZYoa0FwGd2CN2Tbpd8oSWul9Q=s128-h128-e365
-// @author fantasygamery
+// @homepage https://github.com/fantasygamery/Anti-Roblox-Ads
+// @github https://github.com/fantasygamery/Anti-Roblox-Ads
 // @include http://*/*
 // @include https://*/*
 // @version      0.1
-// @description  try to take over the world!
 // @author       Kelvin G.
 // @match        http://tampermonkey.net/scripts.php
 // @grant        none
