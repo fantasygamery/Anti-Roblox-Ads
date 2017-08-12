@@ -27,5 +27,6 @@
         elem.removeChild(elem.childNodes[0]);}catch(z){console.log(z);}
         $('#GamesPageRightColumnSidebar').remove();
         $('#Leaderboard-Abp').remove();
+        $('#AdvertisingLeaderboard').remove();
 
 })();
